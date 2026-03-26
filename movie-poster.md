@@ -134,12 +134,12 @@ Export your best AI generation and open it in Photoshop. You must make at least 
 **How did your vision evolve?**  
 Compare your original creative brief to your final poster. What changed? What stayed the same?  
 
-
+The background and the position of the characters changed
 **What decision are you most proud of that the AI didn't make for you?**  
-
+I'm most proud of making the characters stare not at the person but at a place behind the viewer to show adventure.
 
 **What would you do differently next time?**  
-
+I will try to be more specific with my descriptions so that my accurately fit what I'm trying to accomplish.
 
 ---
 
