@@ -73,12 +73,12 @@ Open Adobe Firefly. Generate images based on your creative brief, but remember: 
 - **What worked:** The three eggs were the center of the poster and there was a cool adventurous background 
 - **What didn't work:** The three characters were depicted with a small size and were facing   
 - **What I'll change for next attempt:**  
-
+I'll make the characters look bigger and face the center of the poster
 **Attempt 2:**  
 - **My prompt:**  
 
-- **What worked:**  
-- **What didn't work:**  
+- **What worked:** The characters were bigger and the eggs were lined in the right orientation. 
+- **What didn't work:** The characters weren't facing the center 
 - **What I'll change for next attempt:**  
 
 ---
@@ -91,18 +91,18 @@ Keep refining. Try at least two more meaningfully different directions.
 **Attempt 3:**  
 - **My prompt:**  
 
-- **What worked:**  
-- **What didn't work:**  
+- **What worked:** The background has better images 
+- **What didn't work:** The characters looked a little odd as if the characters were distorted 
 - **What I'll change for next attempt:**  
 
 **Attempt 4:**  
 - **My prompt:**  
 
-- **What worked:**  
-- **What didn't work:**  
+- **What worked:**  This one wasn't that good but the background was good.
+- **What didn't work:**  The amount of eggs depicted were two instead of three
 
 **Final AI Image Selected:** (Which attempt? Why?)  
-
+I chose the second prompt because it truly enraptured perilous and adventurous. It also encapturred the three characters surrounding the three eggs. 
 ---
 
 ## Step 4: Photoshop Modifications
