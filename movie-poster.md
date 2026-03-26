@@ -30,36 +30,36 @@ At each step, save and commit your work in GitHub Desktop.
 Before you open any AI tools, plan your vision. This is your anchor—return to it after every AI generation.
 
 **Your Movie Choice:**  
-- **Movie Title:**  
+- **Movie Title:**  Red Notice
 - **Why I chose this movie:**  
-
+I chose this movie because it's very exhilarating with many encounters with villains, different stages to find the artifact and a plot twist at the end.
 **Core Emotion:**  
 What ONE feeling should a viewer get from your poster? (Examples: wonder, fear, joy, excitement, mystery, tension, nostalgia)  
 - **Core emotion:**  
-
+They should feel like they're being pulled into an adventure
 **Essential Visual Element:**  
 What ONE image, object, or visual MUST appear on your poster?  
-- **Essential element:**  
+- **Essential element:** I need to have the 3 main characters in the movie who are all theirs on the poster facing to the right and lined in depending order. 
 - **Why this element:**  
 
 **What NOT to Include:**  
 What do you definitely NOT want? (This helps you evaluate AI outputs critically.)  
 - **Avoid:**  
-
+Make sure that the villains and side chapters are on the bottom right corner facing the viewer.
 **Color Palette:**  
-- **Dominant color(s):**  
-- **Accent color(s):**  
+- **Dominant color(s):** red 
+- **Accent color(s):** brown, gold  
 - **Overall mood:** (warm/cool/muted/vibrant/dark/bright)  
-
+Adventurous and perilous
 **Composition:**  
 - [ ] Close-up (face/detail)  
 - [ ] Wide shot (landscape/setting)  
 - [ ] Medium shot (full figure)  
-- [ ] Object/symbol centered  
+- [X] Object/symbol centered  
 - [ ] Character collage  
 
 - **Focal point description:**  
-
+There will be three of the golden eggs near the center of the poster while the of the images spread out.
 ---
 
 ## Step 2: AI Generation – First Attempts
@@ -70,8 +70,8 @@ Open Adobe Firefly. Generate images based on your creative brief, but remember: 
 **Attempt 1:**  
 - **My prompt:**  
 
-- **What worked:**  
-- **What didn't work:**  
+- **What worked:** The three eggs were the center of the poster and there was a cool adventurous background 
+- **What didn't work:** The three characters were depicted with a small size and were facing   
 - **What I'll change for next attempt:**  
 
 **Attempt 2:**  
